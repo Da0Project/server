@@ -35,5 +35,3 @@ As the on-chain information is separated from the off-chain, the vote rate of th
 Authorization system of Da0 / Server
 
 [https://www.linkedin.com/in/seungwon-choi-8a74a6210/](https://www.linkedin.com/in/seungwon-choi-8a74a6210/)
-
-[Feedback](https://www.notion.so/Feedback-8065c26f67d64de6b5453a35e110db9d)
