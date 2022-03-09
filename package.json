@@ -11,6 +11,8 @@
     "cookie-parser": "~1.4.3",
     "cors": "^2.8.4",
     "express": "^4.16.4",
-    "request": "^2.88.2"
+    "mysql": "^2.18.1",
+    "request": "^2.88.2",
+    "serverless-mysql": "^1.5.4"
   }
 }
